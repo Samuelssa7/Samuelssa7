@@ -1,8 +1,8 @@
 # Olá! Eu sou Samuel Andrey 👋
 
 🎓 Estudante de Sistemas de Informação - UNASP 
-💻 Desenvolvedor de Software em Formação
-🚀 Focado em Python, Java, APIs, Automação e Inteligência Artificial
+💻 Desenvolvedor de Software em Formação  
+🚀 Focado em Desenvolvimento de Software, Python, APIs e Inteligência Artificial
 
 ---
 
@@ -10,13 +10,14 @@
 
 Sou estudante de Sistemas de Informação apaixonado por tecnologia e resolução de problemas através da programação.
 
-Tenho conhecimentos em Python, Java, Banco de Dados, Programação Orientada a Objetos e consumo de APIs REST. Desenvolvo projetos acadêmicos e pessoais para aprimorar minhas habilidades em desenvolvimento de software, automação e inteligência artificial.
+Tenho conhecimentos em Python, Java, Banco de Dados, Programação Orientada a Objetos e consumo de APIs REST. Desenvolvo projetos acadêmicos e pessoais para aprimorar minhas habilidades em desenvolvimento de software, automação e integração de sistemas.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,9 +25,17 @@ Tenho conhecimentos em Python, Java, Banco de Dados, Programação Orientada a O
 
 ---
 
-## 📊 Estatísticas
+## 📚 Atualmente Estudando
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuelssa7&show_icons=true&theme=tokyonight)
+- Desenvolvimento Backend
+- Integrações via APIs REST
+- Banco de Dados (SQL/PostgreSQL)
+- Inteligência Artificial Generativa
+- Automação de Processos
+  
+---
+
+## 📊 Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelssa7&layout=compact&theme=tokyonight)
 
@@ -34,13 +43,23 @@ Tenho conhecimentos em Python, Java, Banco de Dados, Programação Orientada a O
 
 ## 📂 Projetos em Destaque
 
-🎬 **Moviews** - Consulta de filmes utilizando API TMDB.
+### 🎬 Moviews
+Aplicação que consome uma API REST (TMDB), realiza requisições HTTP e trata dados JSON para consulta de informações de filmes.
 
-🚌 **Monitoramento de Ônibus SP** - Coleta e manipulação de dados com Python.
+### 🚌 Monitoramento de Ônibus SP
+Projeto em Python para coleta e manipulação de dados de monitoramento.
 
-📚 **Blog de Documentação e Soluções** - Repositório de anotações e soluções técnicas.
+### 📚 Blog de Documentação e Soluções
+Repositório destinado à organização de anotações, documentações e soluções de programação.
 
-📦 **Sistema de Controle de Produtos** - Aplicação em Java utilizando POO.
+### 📦 Sistema de Controle de Produtos
+Aplicação em Java desenvolvida utilizando conceitos de Programação Orientada a Objetos.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Construir software que resolva problemas reais por meio do desenvolvimento backend, integração de sistemas e aplicações de Inteligência Artificial.
 
 ---
 
